@@ -1,0 +1,6 @@
+Order ID,Customer First Name,Customer Last Name,Product Name,Quantity,Unit Price
+1,Alice,Johnson,item1,2,19.99
+3,Alice,Johnson,item1,4,19.99
+4,Alice,Johnson,item1,3,10.98
+2,Bob,Smith,item2,3,29.99
+1,Alice,Johnson,item3,1,9.99
